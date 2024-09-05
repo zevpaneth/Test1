@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "Test1",
+=======
+  "name": "${PROJECT_NAME}",
+>>>>>>> a151613330a62d17e05947c3f868ff272fb12869
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
